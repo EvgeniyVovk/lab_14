@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student>
+	<name>John</name>
+	<gender>Male</gender>
+  </student>
+  <student>
+	<name>Max</name>
+	<gender>Male</gender>
+  </student>
+  <student>
+	<name>Liza</name>
+	<gender>Female</gender>
+  </student>
+</students>
